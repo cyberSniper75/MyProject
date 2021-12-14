@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyProject</string>
+    <string name="className">Clase</string>
+    <string name="grade">Calificación</string>
+    <string name="state">En Curso</string>
+    <string name="ViewAll">Ver Todos</string>
+    <string name="add">Agregar</string>
+    <string name="Average">AVG</string>
+</resources>
